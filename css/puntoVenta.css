@@ -1,0 +1,23 @@
+.blue-color {
+    color: #3eb9c0;
+}
+
+.black-color {
+    color: black;
+}
+
+.waves {
+    aspect-ratio: 900/600;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-image: url('../img/waves6.svg');
+}
+
+.center-top {
+    position: absolute;
+    top: 8%;
+    left: 49%;
+    transform: translateX(-50%);
+}
